@@ -48,6 +48,9 @@ Wine version: wine-6.12 (WINEARCH = win64)
 ________________________________________________
 
 ### Still in progress!!!
+
+![#1_registration_activation](https://user-images.githubusercontent.com/79079633/126769867-524d9607-bdaf-4a3b-aca9-6979b89bdfff.png)
+
 ________________________________________________________________________________________________
 
 ##### Special thanks go to these users:
