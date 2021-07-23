@@ -51,6 +51,9 @@ ________________________________________________
 
 ![#1_registration_activation](https://user-images.githubusercontent.com/79079633/126769867-524d9607-bdaf-4a3b-aca9-6979b89bdfff.png)
 
+![Bildschirmfoto_2021-07-23_12-31-56](https://user-images.githubusercontent.com/79079633/126770274-9c4129cc-6dfc-4d89-a167-081bfd00acd9.png)
+
+
 ________________________________________________________________________________________________
 
 ##### Special thanks go to these users:
