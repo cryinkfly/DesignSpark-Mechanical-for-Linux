@@ -55,7 +55,7 @@ ________________________________________________________________________________
 
 - No users
 
-... they help me to get work Rhino 3D on Linux!!!
+... they help me to get work DesignSpark Mechanical on Linux!!!
 ________________________________________________________________________________________________
 
 #### Which workspaces I have tested:
