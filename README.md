@@ -49,6 +49,9 @@ Wine version: wine-6.12 (WINEARCH = win64)
 ________________________________________________
 
 ### Still in progress!!!
+
+![#13_instal_designspark_mechanical](https://user-images.githubusercontent.com/79079633/126766387-33a28763-5974-4fc5-ba5f-f643b7aebc1f.png)
+
 ________________________________________________________________________________________________
 
 ##### Special thanks go to these users:
