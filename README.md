@@ -1,12 +1,11 @@
 # DesignSpark Mechanical - Linux (Wine-Version)
 
-![Bildschirmfoto_2021-07-21_22-28-38](https://user-images.githubusercontent.com/79079633/126754591-47d32870-7fa8-4dd8-883d-eccda7ca67e7.png)
-
+![#13_instal_designspark_mechanical](https://user-images.githubusercontent.com/79079633/126766387-33a28763-5974-4fc5-ba5f-f643b7aebc1f.png)
 
 
 Hello and Welcome on my GitHub-Channel "Crinkfly"!
 
-My name is Steve and in this repository you can find some instructions for Rhinoceros 3D, where you get a way to install this program on your system.
+My name is Steve and in this repository you can find some instructions for DesignSpark Mechanical, where you get a way to install this program on your system.
 I will give you a feedback at different intervals, when there is something new.
 
 My goal is that we can also use DesignSpark Mechanical on Linux and so we don't need longer two operating systems for this program, when we use this for our projects. I think this is a fantastic idea!
@@ -49,9 +48,6 @@ Wine version: wine-6.12 (WINEARCH = win64)
 ________________________________________________
 
 ### Still in progress!!!
-
-![#13_instal_designspark_mechanical](https://user-images.githubusercontent.com/79079633/126766387-33a28763-5974-4fc5-ba5f-f643b7aebc1f.png)
-
 ________________________________________________________________________________________________
 
 ##### Special thanks go to these users:
