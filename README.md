@@ -12,7 +12,7 @@ My goal is that we can also use DesignSpark Mechanical on Linux and so we don't 
 
 ________________________________________________
 
-You will get more information about this program, then you can visit the original website of DesignSpark Mechanical with this link: https://www.rhino3d.com/
+You will get more information about this program, then you can visit the original website of DesignSpark Mechanical with this link: https://www.rs-online.com/designspark/mechanical-software
 ________________________________________________
 
 You might want to use other CAD programs, then you can find more programs here:
