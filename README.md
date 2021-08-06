@@ -1,73 +1,67 @@
-# DesignSpark Mechanical - Linux (Wine-Version)
+![banner-designspark-mechanical](https://user-images.githubusercontent.com/79079633/128542410-763ce4ed-16e8-4e2c-9595-203318ebf3ba.png)
 
-![#13_instal_designspark_mechanical](https://user-images.githubusercontent.com/79079633/126766387-33a28763-5974-4fc5-ba5f-f643b7aebc1f.png)
+![GitHub last commit](https://img.shields.io/github/last-commit/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-?style=for-the-badge)
 
+DesignSpark Mechanical is a free, downloadable, 3D solid modeling and assembly tool developed in conjunction with SpaceClaim. But you can buy extensions where you get more functions what you can use it for your project.
 
-Hello and Welcome on my GitHub-Channel "Crinkfly"!
+But the problem is that you can only use this program on systems that have Windows installed.
 
-My name is Steve and in this repository you can find some instructions for DesignSpark Mechanical, where you get a way to install this program on your system.
-I will give you a feedback at different intervals, when there is something new.
+And so I got the idea to start this project here to find a way to solve this problem. 
 
-My goal is that we can also use DesignSpark Mechanical on Linux and so we don't need longer two operating systems for this program, when we use this for our projects. I think this is a fantastic idea!
+I started looking at different tools and my choice was Wine! 
 
-________________________________________________
+With this nice tool we don't need longer two operating systems for DesignSpark Mechanical, when we will create a fantastic project! 
 
-You will get more information about this program, then you can visit the original website of DesignSpark Mechanical with this link: https://www.rs-online.com/designspark/mechanical-software
-________________________________________________
+Is that a great idea for the future?
 
-You might want to use other CAD programs, then you can find more programs here:
+Personally, I think this idea is good and for this reason I will do my best to give you the opportunity to use it on Linux as well!
 
-  - Autodesk Fusion 360: https://github.com/cryinkfly/Fusion-360---Linux-Wine-Version-
-  - SOLIDWORKS: https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-
-  - Rhino 3D: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-
-  - ...
-________________________________________________
+---
 
-Also you get more informations about DesignSpark Mechanical, when you visit my other channels:
+You will get more information about this program, then you can visit the original website of DesignSpark Mechanical with this link: https://www.rhino3d.com/
 
-  - Facebook:  https://www.facebook.com/cryinkfly/
-  - Instagram: https://www.instagram.com/cryinkfly/
-  - YouTube:   https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
+---
 
+  - 📂 Downloads: [Stable](https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-/tree/main/scripts/stable-branch) and [development builds](https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-/tree/main/scripts/development-branch)
+  - 📔 Documentation: [GitHub-Documentation](https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-/wiki/Documentation) & [Videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD)
+  - 💬 Would You like to get in touch with me? Or if You have any questions, suggestions or problems?
+  - 📫 Then You can create an [issue](https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-/issues) here on GitHub or You can contact me via my [contact form](https://cryinkfly.com/contact/)!
+  - 📜 Code of Conduct: Contributor Covenant (Still in Progress!)
+  - 📖 Information for contributors: All contribution information, Compilation instructions, Roadmap (Still in Progress!)
+  - ❤️ I'd like to thank everyone who has [helped](https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-/blob/main/SPONSORS.md) me to get Fusion 360 up and running on Linux!
+  - 🍷 Super Application Maintainer (WineHQ): (Still in Progress!)
 
-![YouTube_channel](https://user-images.githubusercontent.com/79079633/119709635-b9994e00-be5d-11eb-976a-fca87b572af1.png)
+---
 
-________________________________________________
+## Screenshots
+<div>
+<img src="https://user-images.githubusercontent.com/79079633/126766387-33a28763-5974-4fc5-ba5f-f643b7aebc1f.png" width="300px" height="200px">
+<img src="https://user-images.githubusercontent.com/79079633/126769867-524d9607-bdaf-4a3b-aca9-6979b89bdfff.png" width="300px" height="200px">
+</div>
+<div>
+<img src="https://user-images.githubusercontent.com/79079633/126770274-9c4129cc-6dfc-4d89-a167-081bfd00acd9.png" width="300px" height="200px">
+</div>
 
-My system:
-
-OS: openSUSE Leap 15.3 x86_64<br/>
-Kernel: 5.3.18-59.13-default<br/>
-DE: Xfce<br/>
-CPU: Intel i7-7700HQ (8) @ 3.800GHz<br/>
-GPU: NVIDIA GeForce GTX 1060 Mobile 6G (Nvidia CUDA Repository)<br/><br/>
-Memory: 32GB
-
-Wine version: wine-6.12 (WINEARCH = win64)
-
-________________________________________________
+---
 
 ### Still in progress!!!
 
-![#1_registration_activation](https://user-images.githubusercontent.com/79079633/126769867-524d9607-bdaf-4a3b-aca9-6979b89bdfff.png)
+---
 
-![Bildschirmfoto_2021-07-23_12-31-56](https://user-images.githubusercontent.com/79079633/126770274-9c4129cc-6dfc-4d89-a167-081bfd00acd9.png)
+## Important Notice
 
+With the help of my script, You get a way to install DesignSpark Mechanical on your Linux system. 
 
-________________________________________________________________________________________________
+Certain packages and programs that are required will be set up for You, but it's important to know, that my script only helps You to get the program to run and nothing more! 
 
-##### Special thanks go to these users:
+And so, You must to purchase the licenses directly from the manufacturer of the program DesignSpark Mechanical!
 
-- No users
+---
 
-... they help me to get work DesignSpark Mechanical on Linux!!!
-________________________________________________________________________________________________
+## License
 
-#### Which workspaces I have tested:
-
-- Installation (works)
-________________________________________________________________________________________________
-
-#### If you have some problems or a question:
-
-- https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-/issues
+All my scripts are released under the MIT license, see [LICENSE.md](https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-/blob/main/LICENSE.md) for full text.
