@@ -33,7 +33,7 @@ You will get more information about this program, then you can visit the origina
   - 📜 Code of Conduct: Contributor Covenant (Still in Progress!)
   - 📖 Information for contributors: All contribution information, Compilation instructions, Roadmap (Still in Progress!)
   - ❤️ I'd like to thank everyone who has [helped](https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-/blob/main/SPONSORS.md) me to get Fusion 360 up and running on Linux!
-  - 🍷 Super Application Maintainer (WineHQ): (Still in Progress!)
+  - 🍷 Maintainer (WineHQ): https://appdb.winehq.org/objectManager.php?sClass=version&iId=40172
 
 ---
 
