@@ -1,3 +1,8 @@
+>[!WARNING]
+>This project has been archived here and will be continued on https://codeberg.org/cryinkfly/DesignSpark-Mechanical-on-Linux.
+
+---
+
 ![banner-designspark-mechanical](https://user-images.githubusercontent.com/79079633/128542410-763ce4ed-16e8-4e2c-9595-203318ebf3ba.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-?style=for-the-badge)
